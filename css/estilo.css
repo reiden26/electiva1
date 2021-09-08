@@ -1,0 +1,23 @@
+body {
+
+    background-color: teal;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    text-align: center;
+    color: turquoise;
+}
+
+
+
+.red { 
+    color: red;
+    text-align: center;
+}
+
+.blue {
+    color: darkblue;
+    text-align: center;
+}
